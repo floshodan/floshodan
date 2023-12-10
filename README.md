@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Low Level Concepts**
 - 🧠 I enjoy **problem solving** and programming puzzles
 - 👨‍💻 My portfolio is available at [https://floshodan.io](https://floshodan.io)
-- 💼 Available for **hire**
 
 
 
